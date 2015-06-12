@@ -1,2 +1,2 @@
 # formation-exemple
-fichiers en cours
+ceic est un exmple de comment il faut utiliser github
